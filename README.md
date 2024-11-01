@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.denizdogan.web.tr/](https://www.denizdogan.web.tr/)
 
-- 📫 How to reach me **deniz123dogan@gmail.com**
+- 📫 How to reach me **denizdogan.cv@gmail.com**
 
 <p align="left">
 </p>
