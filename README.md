@@ -99,9 +99,9 @@ I'm a Software Engineer based in **İzmir, Turkey**, specializing in **cross-pla
 
 <div align="center">
 
-![Deniz's GitHub Stats](https://img.shields.io/github/stars/DenizDogan21?style=social)
-
-![Top Languages](https://github-profile-trophy.vercel.app/?username=DenizDogan21)
+![Stars](https://img.shields.io/github/stars/DenizDogan21?style=social)
+![Followers](https://img.shields.io/github/followers/DenizDogan21?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=DenizDogan21)
 
 </div>
 
