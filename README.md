@@ -101,7 +101,7 @@ I'm a Software Engineer based in **İzmir, Turkey**, specializing in **cross-pla
 
 ![Deniz's GitHub Stats](https://img.shields.io/github/stars/DenizDogan21?style=social)
 
-![Top Languages](https://github-readme-stats.vercel.app/api?username=DenizDogan21)
+![Top Languages](https://github-profile-trophy.vercel.app/?username=DenizDogan21)
 
 </div>
 
