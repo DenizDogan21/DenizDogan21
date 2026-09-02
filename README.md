@@ -1,7 +1,7 @@
 <div align="center">
 
 # Deniz Doğan
-### Mobile Application Developer · Flutter · Python · FastAPI
+### Software Engineer · Flutter · Python · FastAPI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denizdggn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://www.denizdogan.web.tr)
